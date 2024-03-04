@@ -2,6 +2,6 @@ from enum import StrEnum
 
 
 class LogLevel(StrEnum):
-    DEBUG = "WARNING"
+    DEBUG = "DEBUG"
     INFO = "INFO"
     WARNING = "WARNING"
