@@ -18,6 +18,9 @@ class PyLog:
         handler.setFormatter(formatter)
         self._logger.addHandler(handler)
 
+    def set_level(self, log_level: LogLevel) -> None:
+        self._logger.setLevel(log_level)
+
     def debug(self, msg: str) -> None:
         self._logger.debug(msg)
 
