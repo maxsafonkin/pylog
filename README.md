@@ -2,7 +2,7 @@
 
 ## Description
 
-Pretty simplelLibrary for logging with readable format.
+Pretty simple library for logging with pretty format.
 
 ## Usage
 
