@@ -1,7 +1,5 @@
 # Pylog
 
-## Description
-
 Pretty simple wrapper for standart logging module.
 
 ## Usage
