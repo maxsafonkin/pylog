@@ -2,7 +2,7 @@
 
 ## Description
 
-Pretty simple library for logging with pretty format.
+Pretty simple wrapper for standart logging module.
 
 ## Usage
 
